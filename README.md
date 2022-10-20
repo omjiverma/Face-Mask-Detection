@@ -11,7 +11,7 @@ The dataset used to train the face mask detection system is the "FaceMask Datase
 
 In this project, I have implemented a Mobilenet convolutional neural network that takes an image of a person's face and predicts whether the person is wearing a mask or not. 
 
-The input image is a color image with dimensions of 100x100x3. The output of the neural network is a binary prediction (0 for wearing a mask and 1 for not wearing a mask).
+The input image is a color image with dimensions of 100x100x3. The output of the neural network is a  prediction probability.
 
 In this be used a Mobilenet Neural Netowork without pretraining weights. The first 11 layers are depthwise separable convolutional layers with 3x3 kernels. The final layer is a 1x1 convolutional layer with a sigmoid activation. 
 
