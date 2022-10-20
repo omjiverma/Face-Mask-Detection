@@ -24,6 +24,6 @@ In this be used a Mobilenet Neural Netowork without pretraining weights. The fir
 - Gradio
 - matplotlib
 
-## Gradio Deployed Model
+## Gradio Deployed Model Screenshot
 
 <img src = "img/Gradio-dash.png">
